@@ -1,0 +1,7 @@
+{
+  "name": "DailyFlow",
+  "description": "A sleek, intelligent to-do list manager for your daily and weekly tasks, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
